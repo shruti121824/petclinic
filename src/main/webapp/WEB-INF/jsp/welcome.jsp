@@ -11,4 +11,5 @@
             <img class="img-responsive" src="${petsImage}"/>
         </div>
     </div>
+    <h2> Demo </hr>
 </petclinic:layout>
