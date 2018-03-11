@@ -11,6 +11,6 @@
             <img class="img-responsive" src="${petsImage}"/>
         </div>
     </div>
-    <marquee behavior="scroll" direction="left">Dogs' lives are too short. Their only fault, really---</marquee>
+    <marquee behavior="scroll" direction="left">It is amazing how much love and laughter they bring into our lives and even how much closer we become with each other because of them</marquee>
 </petclinic:layout>
 
