@@ -11,5 +11,5 @@
             <img class="img-responsive" src="${petsImage}"/>
         </div>
     </div>
-    <h2> Demo </hr>
+    <marquee behavior="scroll" direction="right">Dogs' lives are too short. Their only fault, really</marquee>
 </petclinic:layout>
