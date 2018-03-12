@@ -39,9 +39,38 @@ public class BaseEntity {
     public void setId(Integer id) {
         this.id = id;
     }
+    
 
     public boolean isNew() {
         return this.id == null;
+    }
+    
+    public void setId1(Integer id) {
+        this.id = id;
+    }
+    public void setId2(Integer id) {
+        this.id = id;
+    }
+    public void setId3(Integer id) {
+        this.id = id;
+    }
+    public void setId4(Integer id) {
+        this.id = id;
+    }
+    public void setId5(Integer id) {
+        this.id = id;
+    }
+    public void setId6(Integer id) {
+        this.id = id;
+    }
+    public void setId7(Integer id) {
+        this.id = id;
+    }
+    public void setId8(Integer id) {
+        this.id = id;
+    }
+    public void setId9(Integer id) {
+        this.id = id;
     }
 
 }
