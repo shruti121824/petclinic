@@ -56,6 +56,12 @@ public class PetControllerTests {
         cat.setId(3);
         cat.setId1(3);
         cat.setId2(3);
+        cat.setId3(3);
+        cat.setId4(3);
+        cat.setId5(3);
+        cat.setId6(3);
+        cat.setId7(3);
+        
         cat.setName("hamster");
         given(this.clinicService.findPetTypes()).willReturn(Lists.newArrayList(cat));
         given(this.clinicService.findOwnerById(TEST_OWNER_ID)).willReturn(new Owner());
