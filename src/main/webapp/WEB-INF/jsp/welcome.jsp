@@ -10,7 +10,7 @@
             <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
             <img class="img-responsive" src="${petsImage}"/>
         </div>
-        <h2>We strive to provide the best veterinary medicine coupled with the most compassionate, collaborative care in the region.  </h2>
+        <h2>We strive to provide the best veterinary medicine coupled with the most compassionate, collaborative care in the region...  </h2>
     </div>
     <br/><br/><br/><br/><br/><br/>
     <marquee behavior="scroll" direction="left">It is amazing how much love and laughter they bring into our lives and even how much closer we become with each other because of them</marquee>
